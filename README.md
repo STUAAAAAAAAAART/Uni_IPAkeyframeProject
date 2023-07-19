@@ -19,8 +19,11 @@ The pronunciation for "winograd" had to be manually sourced from wikipedia, as i
 - Group with keyframed attributes are to be connected to Consonant and Vowel control surfaces of the character rig (rig not included)
 
 ## Directions of use
+Processing scripts are located in the /Scripts folder.
+Step 1 and 2 are to be executed in a standalone environment.
+Step 3 is to be sent to Maya for processing keyframes
 
-
+refer to comments for file handling details, as steps 1 and 2 do not have a file dialog implementation in its current state
 
 ## Quality notice
 2023.07.18
@@ -32,6 +35,5 @@ The pronunciation for "winograd" had to be manually sourced from wikipedia, as i
 	- 
 - future functionality
 	- MAYA - word spread scaling (and UI) for retiming syllables or inserting pauses 
-	- MAYA - 
 	- phoneme editing, either in maya or externally
 	- user-sided addition of more word IPA definitions
