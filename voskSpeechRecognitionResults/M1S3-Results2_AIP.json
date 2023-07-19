@@ -1,0 +1,149 @@
+{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 0.780000,
+      "start" : 0.660000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.050000,
+      "start" : 0.780000,
+      "word" : "dunno"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.320000,
+      "start" : 1.050000,
+      "word" : "about"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.560000,
+      "start" : 1.320000,
+      "word" : "you"
+    }, {
+      "conf" : 1.000000,
+      "end" : 1.830000,
+      "start" : 1.560000,
+      "word" : "but"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.160000,
+      "start" : 1.860000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.550000,
+      "start" : 2.160000,
+      "word" : "hate"
+    }, {
+      "conf" : 1.000000,
+      "end" : 2.910000,
+      "start" : 2.550000,
+      "word" : "small"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.270000,
+      "start" : 2.910000,
+      "word" : "talk"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.630000,
+      "start" : 3.450000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 3.780000,
+      "start" : 3.630000,
+      "word" : "am"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.260000,
+      "start" : 3.780000,
+      "word" : "terrible"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.440000,
+      "start" : 4.260000,
+      "word" : "at"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.530000,
+      "start" : 4.440000,
+      "word" : "it"
+    }, {
+      "conf" : 1.000000,
+      "end" : 4.650000,
+      "start" : 4.530000,
+      "word" : "i"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.010000,
+      "start" : 4.650000,
+      "word" : "don't"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.130000,
+      "start" : 5.010000,
+      "word" : "know"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.310000,
+      "start" : 5.130000,
+      "word" : "why"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.400000,
+      "start" : 5.310000,
+      "word" : "it"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.790000,
+      "start" : 5.400000,
+      "word" : "exists"
+    }, {
+      "conf" : 1.000000,
+      "end" : 5.940000,
+      "start" : 5.790000,
+      "word" : "so"
+    }, {
+      "conf" : 1.000000,
+      "end" : 6.630000,
+      "start" : 5.940000,
+      "word" : "naturally"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.260000,
+      "start" : 7.110000,
+      "word" : "i"
+    }, {
+      "conf" : 0.553441,
+      "end" : 7.650000,
+      "start" : 7.260000,
+      "word" : "spend"
+    }, {
+      "conf" : 0.958540,
+      "end" : 7.710000,
+      "start" : 7.650000,
+      "word" : "a"
+    }, {
+      "conf" : 1.000000,
+      "end" : 7.920000,
+      "start" : 7.740000,
+      "word" : "day"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.280000,
+      "start" : 7.920000,
+      "word" : "talking"
+    }, {
+      "conf" : 1.000000,
+      "end" : 8.370000,
+      "start" : 8.280000,
+      "word" : "to"
+    }, {
+      "conf" : 1.000000,
+      "end" : 9.150000,
+      "start" : 8.370000,
+      "word" : "strangers"
+    }],
+  "text" : "i dunno about you but i hate small talk i am terrible at it i don't know why it exists so naturally i spend a day talking to strangers"
+}

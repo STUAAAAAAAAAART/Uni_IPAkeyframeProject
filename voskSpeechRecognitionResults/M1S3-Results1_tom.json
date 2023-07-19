@@ -1,0 +1,420 @@
+{
+  "phrase" : [
+ {
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 0.180000,
+       "start" : 0.090000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 0.810000,
+       "start" : 0.180000,
+       "word" : "winograd"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.230000,
+       "start" : 0.810000,
+       "word" : "schema"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.440000,
+       "start" : 1.290000,
+       "word" : "is"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.500000,
+       "start" : 1.440000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.920000,
+       "start" : 1.500000,
+       "word" : "test"
+     }, {
+       "conf" : 1.000000,
+       "end" : 2.340000,
+       "start" : 1.950000,
+       "word" : "designed"
+     }, {
+       "conf" : 1.000000,
+       "end" : 2.400000,
+       "start" : 2.340000,
+       "word" : "to"
+     }, {
+       "conf" : 1.000000,
+       "end" : 2.730000,
+       "start" : 2.400000,
+       "word" : "stretch"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.240000,
+       "start" : 2.730000,
+       "word" : "computer"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.600000,
+       "start" : 3.240000,
+       "word" : "language"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.110000,
+       "start" : 3.600000,
+       "word" : "processing"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.290000,
+       "start" : 4.110000,
+       "word" : "to"
+     }, {
+       "conf" : 0.866655,
+       "end" : 4.440000,
+       "start" : 4.290000,
+       "word" : "it's"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.920000,
+       "start" : 4.440000,
+       "word" : "limit"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.340000,
+       "start" : 5.190000,
+       "word" : "if"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.400000,
+       "start" : 5.340000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.760000,
+       "start" : 5.400000,
+       "word" : "machine"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.910000,
+       "start" : 5.760000,
+       "word" : "can"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.330000,
+       "start" : 5.910000,
+       "word" : "determine"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.480000,
+       "start" : 6.330000,
+       "word" : "an"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.960000,
+       "start" : 6.480000,
+       "word" : "intended"
+     }, {
+       "conf" : 0.982049,
+       "end" : 7.650000,
+       "start" : 7.020000,
+       "word" : "reference"
+     }, {
+       "conf" : 1.000000,
+       "end" : 7.830000,
+       "start" : 7.680000,
+       "word" : "in"
+     }, {
+       "conf" : 1.000000,
+       "end" : 7.860000,
+       "start" : 7.830000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 8.340000,
+       "start" : 7.860000,
+       "word" : "sentence"
+     }, {
+       "conf" : 1.000000,
+       "end" : 8.850000,
+       "start" : 8.580000,
+       "word" : "based"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.150000,
+       "start" : 8.850000,
+       "word" : "only"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.270000,
+       "start" : 9.150000,
+       "word" : "on"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.570000,
+       "start" : 9.270000,
+       "word" : "clues"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.690000,
+       "start" : 9.570000,
+       "word" : "from"
+     }, {
+       "conf" : 0.622571,
+       "end" : 10.200000,
+       "start" : 9.690000,
+       "word" : "context"
+     }, {
+       "conf" : 0.987689,
+       "end" : 10.470000,
+       "start" : 10.230000,
+       "word" : "then"
+     }, {
+       "conf" : 1.000000,
+       "end" : 10.830000,
+       "start" : 10.710000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.160000,
+       "start" : 10.830000,
+       "word" : "machine"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.280000,
+       "start" : 11.160000,
+       "word" : "is"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.610000,
+       "start" : 11.280000,
+       "word" : "using"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.180000,
+       "start" : 11.610000,
+       "word" : "reasoning"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.300000,
+       "start" : 12.180000,
+       "word" : "to"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.570000,
+       "start" : 12.300000,
+       "word" : "pass"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.630000,
+       "start" : 12.570000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 13.050000,
+       "start" : 12.630000,
+       "word" : "language"
+     }, {
+       "conf" : 1.000000,
+       "end" : 13.350000,
+       "start" : 13.050000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 14.610000,
+       "start" : 13.890000,
+       "word" : "perhaps"
+     }, {
+       "conf" : 1.000000,
+       "end" : 14.850000,
+       "start" : 14.640000,
+       "word" : "it"
+     }, {
+       "conf" : 1.000000,
+       "end" : 15.060000,
+       "start" : 14.850000,
+       "word" : "should"
+     }, {
+       "conf" : 1.000000,
+       "end" : 15.150000,
+       "start" : 15.060000,
+       "word" : "be"
+     }, {
+       "conf" : 1.000000,
+       "end" : 15.510000,
+       "start" : 15.150000,
+       "word" : "called"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.290000,
+       "start" : 15.510000,
+       "word" : "intelligent"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.220000,
+       "start" : 16.860000,
+       "word" : "humans"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.310000,
+       "start" : 17.220000,
+       "word" : "are"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.550000,
+       "start" : 17.310000,
+       "word" : "pretty"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.700000,
+       "start" : 17.550000,
+       "word" : "good"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.790000,
+       "start" : 17.700000,
+       "word" : "at"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.090000,
+       "start" : 17.790000,
+       "word" : "working"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.270000,
+       "start" : 18.090000,
+       "word" : "out"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.900000,
+       "start" : 18.270000,
+       "word" : "reference"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.230000,
+       "start" : 18.960000,
+       "word" : "based"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.320000,
+       "start" : 19.230000,
+       "word" : "on"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.380000,
+       "start" : 19.320000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.860000,
+       "start" : 19.380000,
+       "word" : "context"
+     }],
+   "text" : "the winograd schema is a test designed to stretch computer language processing to it's limit if a machine can determine an intended reference in a sentence based only on clues from context then the machine is using reasoning to pass the language and perhaps it should be called intelligent humans are pretty good at working out reference based on the context"
+ },{
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 20.280000,
+       "start" : 20.190000,
+       "word" : "for"
+     }, {
+       "conf" : 1.000000,
+       "end" : 20.760000,
+       "start" : 20.280000,
+       "word" : "example"
+     }, {
+       "conf" : 1.000000,
+       "end" : 21.150000,
+       "start" : 20.940000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 21.720000,
+       "start" : 21.150000,
+       "word" : "trophy"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.020000,
+       "start" : 21.810000,
+       "word" : "would"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.200000,
+       "start" : 22.020000,
+       "word" : "not"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.380000,
+       "start" : 22.200000,
+       "word" : "fit"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.470000,
+       "start" : 22.380000,
+       "word" : "in"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.560000,
+       "start" : 22.470000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.830000,
+       "start" : 22.560000,
+       "word" : "brown"
+     }, {
+       "conf" : 1.000000,
+       "end" : 23.520000,
+       "start" : 22.830000,
+       "word" : "suitcase"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.090000,
+       "start" : 23.670000,
+       "word" : "because"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.480000,
+       "start" : 24.240000,
+       "word" : "it"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.690000,
+       "start" : 24.480000,
+       "word" : "was"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.900000,
+       "start" : 24.690000,
+       "word" : "too"
+     }, {
+       "conf" : 1.000000,
+       "end" : 25.200000,
+       "start" : 24.900000,
+       "word" : "big"
+     }],
+   "text" : "for example the trophy would not fit in the brown suitcase because it was too big"
+ },{
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 26.730000,
+       "start" : 26.550000,
+       "word" : "what"
+     }, {
+       "conf" : 1.000000,
+       "end" : 26.880000,
+       "start" : 26.730000,
+       "word" : "was"
+     }, {
+       "conf" : 1.000000,
+       "end" : 27.060000,
+       "start" : 26.880000,
+       "word" : "too"
+     }, {
+       "conf" : 1.000000,
+       "end" : 27.390000,
+       "start" : 27.060000,
+       "word" : "big"
+     }],
+   "text" : "what was too big"
+ }
+ ]
+ }
+ 

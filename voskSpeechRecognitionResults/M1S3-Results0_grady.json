@@ -1,0 +1,943 @@
+{
+  "phrase" : [
+ {
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 0.240000,
+       "start" : 0.060000,
+       "word" : "since"
+     }, {
+       "conf" : 1.000000,
+       "end" : 0.390000,
+       "start" : 0.240000,
+       "word" : "two"
+     }, {
+       "conf" : 1.000000,
+       "end" : 0.720000,
+       "start" : 0.390000,
+       "word" : "thousand"
+     }, {
+       "conf" : 1.000000,
+       "end" : 0.780000,
+       "start" : 0.720000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.230000,
+       "start" : 0.780000,
+       "word" : "eleven"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.410000,
+       "start" : 1.290000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 1.860000,
+       "start" : 1.410000,
+       "word" : "russian"
+     }, {
+       "conf" : 1.000000,
+       "end" : 2.280000,
+       "start" : 1.890000,
+       "word" : "energy"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.000000,
+       "start" : 2.280000,
+       "word" : "corporation"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.720000,
+       "start" : 3.030000,
+       "word" : "gazprom"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.930000,
+       "start" : 3.780000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 3.990000,
+       "start" : 3.930000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.290000,
+       "start" : 3.990000,
+       "word" : "group"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.410000,
+       "start" : 4.290000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 4.800000,
+       "start" : 4.410000,
+       "word" : "large"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.370000,
+       "start" : 4.800000,
+       "word" : "investors"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.640000,
+       "start" : 5.520000,
+       "word" : "have"
+     }, {
+       "conf" : 1.000000,
+       "end" : 5.790000,
+       "start" : 5.640000,
+       "word" : "been"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.210000,
+       "start" : 5.790000,
+       "word" : "working"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.360000,
+       "start" : 6.210000,
+       "word" : "on"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.540000,
+       "start" : 6.360000,
+       "word" : "one"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.600000,
+       "start" : 6.540000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 6.720000,
+       "start" : 6.600000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 7.470000,
+       "start" : 6.720000,
+       "word" : "longest"
+     }, {
+       "conf" : 1.000000,
+       "end" : 7.680000,
+       "start" : 7.530000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 8.190000,
+       "start" : 7.680000,
+       "word" : "highest"
+     }, {
+       "conf" : 1.000000,
+       "end" : 8.880000,
+       "start" : 8.190000,
+       "word" : "capacity"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.450000,
+       "start" : 8.940000,
+       "word" : "offshore"
+     }, {
+       "conf" : 1.000000,
+       "end" : 9.780000,
+       "start" : 9.450000,
+       "word" : "gas"
+     }, {
+       "conf" : 1.000000,
+       "end" : 10.380000,
+       "start" : 9.780000,
+       "word" : "pipelines"
+     }, {
+       "conf" : 1.000000,
+       "end" : 10.440000,
+       "start" : 10.380000,
+       "word" : "in"
+     }, {
+       "conf" : 1.000000,
+       "end" : 10.560000,
+       "start" : 10.440000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.100000,
+       "start" : 10.560000,
+       "word" : "world"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.340000,
+       "start" : 11.190000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 11.670000,
+       "start" : 11.340000,
+       "word" : "nord"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.000000,
+       "start" : 11.670000,
+       "word" : "stream"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.360000,
+       "start" : 12.030000,
+       "word" : "two"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.510000,
+       "start" : 12.360000,
+       "word" : "is"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.570000,
+       "start" : 12.510000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.810000,
+       "start" : 12.570000,
+       "word" : "pair"
+     }, {
+       "conf" : 1.000000,
+       "end" : 12.900000,
+       "start" : 12.810000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 13.350000,
+       "start" : 12.900000,
+       "word" : "large"
+     }, {
+       "conf" : 1.000000,
+       "end" : 13.920000,
+       "start" : 13.350000,
+       "word" : "diameter"
+     }, {
+       "conf" : 1.000000,
+       "end" : 14.400000,
+       "start" : 13.920000,
+       "word" : "natural"
+     }, {
+       "conf" : 1.000000,
+       "end" : 14.730000,
+       "start" : 14.400000,
+       "word" : "gas"
+     }, {
+       "conf" : 1.000000,
+       "end" : 15.360000,
+       "start" : 14.730000,
+       "word" : "pipelines"
+     }, {
+       "conf" : 1.000000,
+       "end" : 15.810000,
+       "start" : 15.450000,
+       "word" : "running"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.110000,
+       "start" : 15.810000,
+       "word" : "along"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.200000,
+       "start" : 16.110000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.650000,
+       "start" : 16.200000,
+       "word" : "bottom"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.800000,
+       "start" : 16.650000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 16.860000,
+       "start" : 16.800000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.310000,
+       "start" : 16.860000,
+       "word" : "baltic"
+     }, {
+       "conf" : 1.000000,
+       "end" : 17.760000,
+       "start" : 17.310000,
+       "word" : "sea"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.000000,
+       "start" : 17.760000,
+       "word" : "from"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.090000,
+       "start" : 18.000000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.450000,
+       "start" : 18.090000,
+       "word" : "russian"
+     }, {
+       "conf" : 1.000000,
+       "end" : 18.840000,
+       "start" : 18.450000,
+       "word" : "coast"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.020000,
+       "start" : 18.840000,
+       "word" : "near"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.260000,
+       "start" : 19.020000,
+       "word" : "st"
+     }, {
+       "conf" : 1.000000,
+       "end" : 19.920000,
+       "start" : 19.290000,
+       "word" : "petersburg"
+     }, {
+       "conf" : 0.880101,
+       "end" : 20.160000,
+       "start" : 20.040000,
+       "word" : "to"
+     }],
+   "text" : "since two thousand and eleven the russian energy corporation gazprom and a group of large investors have been working on one of the longest and highest capacity offshore gas pipelines in the world the nord stream two is a pair of large diameter natural gas pipelines running along the bottom of the baltic sea from the russian coast near st petersburg to"
+ },{
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 20.280000,
+       "start" : 20.190000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 20.700000,
+       "start" : 20.280000,
+       "word" : "northern"
+     }, {
+       "conf" : 1.000000,
+       "end" : 20.970000,
+       "start" : 20.700000,
+       "word" : "coast"
+     }, {
+       "conf" : 1.000000,
+       "end" : 21.060000,
+       "start" : 20.970000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 21.570000,
+       "start" : 21.060000,
+       "word" : "germany"
+     }, {
+       "conf" : 1.000000,
+       "end" : 21.780000,
+       "start" : 21.570000,
+       "word" : "near"
+     }, {
+       "conf" : 1.000000,
+       "end" : 22.590000,
+       "start" : 21.780000,
+       "word" : "graceful"
+     }, {
+       "conf" : 1.000000,
+       "end" : 23.220000,
+       "start" : 22.710000,
+       "word" : "planning"
+     }, {
+       "conf" : 1.000000,
+       "end" : 23.700000,
+       "start" : 23.220000,
+       "word" : "design"
+     }, {
+       "conf" : 1.000000,
+       "end" : 23.790000,
+       "start" : 23.700000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.450000,
+       "start" : 23.790000,
+       "word" : "construction"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.570000,
+       "start" : 24.450000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 24.900000,
+       "start" : 24.570000,
+       "word" : "nord"
+     }, {
+       "conf" : 1.000000,
+       "end" : 25.230000,
+       "start" : 24.900000,
+       "word" : "stream"
+     }, {
+       "conf" : 1.000000,
+       "end" : 25.470000,
+       "start" : 25.230000,
+       "word" : "two"
+     }, {
+       "conf" : 1.000000,
+       "end" : 25.710000,
+       "start" : 25.470000,
+       "word" : "was"
+     }, {
+       "conf" : 1.000000,
+       "end" : 26.280000,
+       "start" : 25.710000,
+       "word" : "mired"
+     }, {
+       "conf" : 1.000000,
+       "end" : 26.370000,
+       "start" : 26.280000,
+       "word" : "in"
+     }, {
+       "conf" : 1.000000,
+       "end" : 26.880000,
+       "start" : 26.370000,
+       "word" : "political"
+     }, {
+       "conf" : 1.000000,
+       "end" : 27.660000,
+       "start" : 26.880000,
+       "word" : "controversy"
+     }, {
+       "conf" : 1.000000,
+       "end" : 28.020000,
+       "start" : 27.750000,
+       "word" : "not"
+     }, {
+       "conf" : 1.000000,
+       "end" : 28.260000,
+       "start" : 28.020000,
+       "word" : "only"
+     }, {
+       "conf" : 1.000000,
+       "end" : 28.590000,
+       "start" : 28.260000,
+       "word" : "because"
+     }, {
+       "conf" : 1.000000,
+       "end" : 28.680000,
+       "start" : 28.590000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 29.130000,
+       "start" : 28.680000,
+       "word" : "climate"
+     }, {
+       "conf" : 1.000000,
+       "end" : 29.580000,
+       "start" : 29.130000,
+       "word" : "related"
+     }, {
+       "conf" : 1.000000,
+       "end" : 30.360000,
+       "start" : 29.580000,
+       "word" : "apprehensions"
+     }, {
+       "conf" : 1.000000,
+       "end" : 30.595523,
+       "start" : 30.360000,
+       "word" : "over"
+     }, {
+       "conf" : 1.000000,
+       "end" : 30.900000,
+       "start" : 30.604477,
+       "word" : "new"
+     }, {
+       "conf" : 1.000000,
+       "end" : 31.350000,
+       "start" : 30.900000,
+       "word" : "fossil"
+     }, {
+       "conf" : 1.000000,
+       "end" : 31.620000,
+       "start" : 31.350000,
+       "word" : "fuel"
+     }, {
+       "conf" : 1.000000,
+       "end" : 32.370000,
+       "start" : 31.620000,
+       "word" : "infrastructure"
+     }, {
+       "conf" : 1.000000,
+       "end" : 32.670000,
+       "start" : 32.460000,
+       "word" : "but"
+     }, {
+       "conf" : 1.000000,
+       "end" : 33.090000,
+       "start" : 32.670000,
+       "word" : "also"
+     }, {
+       "conf" : 1.000000,
+       "end" : 33.300000,
+       "start" : 33.090000,
+       "word" : "over"
+     }, {
+       "conf" : 1.000000,
+       "end" : 33.780000,
+       "start" : 33.300000,
+       "word" : "concerns"
+     }, {
+       "conf" : 1.000000,
+       "end" : 33.930000,
+       "start" : 33.780000,
+       "word" : "that"
+     }, {
+       "conf" : 1.000000,
+       "end" : 34.020000,
+       "start" : 33.930000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 34.620000,
+       "start" : 34.020000,
+       "word" : "pipeline"
+     }, {
+       "conf" : 1.000000,
+       "end" : 34.770000,
+       "start" : 34.620000,
+       "word" : "could"
+     }, {
+       "conf" : 1.000000,
+       "end" : 34.920000,
+       "start" : 34.770000,
+       "word" : "be"
+     }, {
+       "conf" : 1.000000,
+       "end" : 35.250000,
+       "start" : 34.920000,
+       "word" : "used"
+     }, {
+       "conf" : 1.000000,
+       "end" : 35.400000,
+       "start" : 35.250000,
+       "word" : "as"
+     }, {
+       "conf" : 1.000000,
+       "end" : 35.490000,
+       "start" : 35.400000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 35.910000,
+       "start" : 35.490000,
+       "word" : "geo"
+     }, {
+       "conf" : 1.000000,
+       "end" : 36.480000,
+       "start" : 35.970000,
+       "word" : "political"
+     }, {
+       "conf" : 1.000000,
+       "end" : 36.990000,
+       "start" : 36.480000,
+       "word" : "weapon"
+     }, {
+       "conf" : 1.000000,
+       "end" : 37.200000,
+       "start" : 36.990000,
+       "word" : "by"
+     }, {
+       "conf" : 1.000000,
+       "end" : 37.740000,
+       "start" : 37.200000,
+       "word" : "russia"
+     }, {
+       "conf" : 1.000000,
+       "end" : 38.370000,
+       "start" : 37.860000,
+       "word" : "against"
+     }, {
+       "conf" : 1.000000,
+       "end" : 38.580000,
+       "start" : 38.370000,
+       "word" : "other"
+     }, {
+       "conf" : 1.000000,
+       "end" : 39.090000,
+       "start" : 38.580000,
+       "word" : "european"
+     }, {
+       "conf" : 1.000000,
+       "end" : 39.690000,
+       "start" : 39.090000,
+       "word" : "countries"
+     }, {
+       "conf" : 1.000000,
+       "end" : 40.320000,
+       "start" : 39.840000,
+       "word" : "still"
+     }],
+   "text" : "the northern coast of germany near graceful planning design and construction of nord stream two was mired in political controversy not only because of climate related apprehensions over new fossil fuel infrastructure but also over concerns that the pipeline could be used as a geo political weapon by russia against other european countries still"
+ },{
+   "result" : [{
+       "conf" : 1.000000,
+       "end" : 41.040000,
+       "start" : 40.350000,
+       "word" : "construction"
+     }, {
+       "conf" : 1.000000,
+       "end" : 41.520000,
+       "start" : 41.040000,
+       "word" : "began"
+     }, {
+       "conf" : 1.000000,
+       "end" : 41.610000,
+       "start" : 41.520000,
+       "word" : "in"
+     }, {
+       "conf" : 1.000000,
+       "end" : 41.700000,
+       "start" : 41.610000,
+       "word" : "two"
+     }, {
+       "conf" : 1.000000,
+       "end" : 41.850000,
+       "start" : 41.700000,
+       "word" : "thousand"
+     }, {
+       "conf" : 1.000000,
+       "end" : 41.910000,
+       "start" : 41.850000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 42.480000,
+       "start" : 41.910000,
+       "word" : "sixteen"
+     }, {
+       "conf" : 1.000000,
+       "end" : 42.690000,
+       "start" : 42.540000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 43.230000,
+       "start" : 42.690000,
+       "word" : "finished"
+     }, {
+       "conf" : 1.000000,
+       "end" : 43.620000,
+       "start" : 43.230000,
+       "word" : "five"
+     }, {
+       "conf" : 1.000000,
+       "end" : 43.890000,
+       "start" : 43.620000,
+       "word" : "years"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.280000,
+       "start" : 43.890000,
+       "word" : "later"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.430000,
+       "start" : 44.280000,
+       "word" : "at"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.550000,
+       "start" : 44.430000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.760000,
+       "start" : 44.550000,
+       "word" : "end"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.850000,
+       "start" : 44.760000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 44.970000,
+       "start" : 44.850000,
+       "word" : "two"
+     }, {
+       "conf" : 1.000000,
+       "end" : 45.120000,
+       "start" : 44.970000,
+       "word" : "thousand"
+     }, {
+       "conf" : 1.000000,
+       "end" : 45.180000,
+       "start" : 45.120000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 45.450000,
+       "start" : 45.210000,
+       "word" : "twenty"
+     }, {
+       "conf" : 1.000000,
+       "end" : 45.870000,
+       "start" : 45.450000,
+       "word" : "one"
+     }, {
+       "conf" : 1.000000,
+       "end" : 46.410000,
+       "start" : 46.200000,
+       "word" : "as"
+     }, {
+       "conf" : 1.000000,
+       "end" : 46.500000,
+       "start" : 46.410000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 46.950000,
+       "start" : 46.500000,
+       "word" : "german"
+     }, {
+       "conf" : 1.000000,
+       "end" : 47.460000,
+       "start" : 46.950000,
+       "word" : "government"
+     }, {
+       "conf" : 1.000000,
+       "end" : 47.730000,
+       "start" : 47.460000,
+       "word" : "work"
+     }, {
+       "conf" : 1.000000,
+       "end" : 48.000000,
+       "start" : 47.730000,
+       "word" : "towards"
+     }, {
+       "conf" : 1.000000,
+       "end" : 48.630000,
+       "start" : 48.000000,
+       "word" : "certifying"
+     }, {
+       "conf" : 1.000000,
+       "end" : 48.720000,
+       "start" : 48.630000,
+       "word" : "the"
+     }, {
+       "conf" : 1.000000,
+       "end" : 49.260000,
+       "start" : 48.720000,
+       "word" : "pipeline"
+     }, {
+       "conf" : 1.000000,
+       "end" : 49.350000,
+       "start" : 49.260000,
+       "word" : "to"
+     }, {
+       "conf" : 1.000000,
+       "end" : 49.650000,
+       "start" : 49.350000,
+       "word" : "begin"
+     }, {
+       "conf" : 1.000000,
+       "end" : 50.340000,
+       "start" : 49.650000,
+       "word" : "operation"
+     }, {
+       "conf" : 1.000000,
+       "end" : 51.030000,
+       "start" : 50.430000,
+       "word" : "russia"
+     }, {
+       "conf" : 1.000000,
+       "end" : 51.510000,
+       "start" : 51.090000,
+       "word" : "launched"
+     }, {
+       "conf" : 1.000000,
+       "end" : 51.600000,
+       "start" : 51.510000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 52.350000,
+       "start" : 51.600000,
+       "word" : "military"
+     }, {
+       "conf" : 1.000000,
+       "end" : 52.860000,
+       "start" : 52.350000,
+       "word" : "invasion"
+     }, {
+       "conf" : 1.000000,
+       "end" : 52.980000,
+       "start" : 52.860000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 53.640000,
+       "start" : 52.980000,
+       "word" : "ukraine"
+     }, {
+       "conf" : 1.000000,
+       "end" : 54.090000,
+       "start" : 53.790000,
+       "word" : "this"
+     }, {
+       "conf" : 1.000000,
+       "end" : 55.110000,
+       "start" : 54.090000,
+       "word" : "unjustified"
+     }, {
+       "conf" : 1.000000,
+       "end" : 55.230000,
+       "start" : 55.110000,
+       "word" : "and"
+     }, {
+       "conf" : 1.000000,
+       "end" : 56.040000,
+       "start" : 55.230000,
+       "word" : "unconscionable"
+     }, {
+       "conf" : 1.000000,
+       "end" : 56.520000,
+       "start" : 56.040000,
+       "word" : "attack"
+     }, {
+       "conf" : 1.000000,
+       "end" : 56.640000,
+       "start" : 56.520000,
+       "word" : "on"
+     }, {
+       "conf" : 1.000000,
+       "end" : 56.700000,
+       "start" : 56.640000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 57.150000,
+       "start" : 56.700000,
+       "word" : "sovereign"
+     }, {
+       "conf" : 1.000000,
+       "end" : 57.570000,
+       "start" : 57.150000,
+       "word" : "nation"
+     }, {
+       "conf" : 1.000000,
+       "end" : 57.780000,
+       "start" : 57.570000,
+       "word" : "has"
+     }, {
+       "conf" : 1.000000,
+       "end" : 58.260000,
+       "start" : 57.780000,
+       "word" : "received"
+     }, {
+       "conf" : 1.000000,
+       "end" : 59.070000,
+       "start" : 58.260000,
+       "word" : "widespread"
+     }, {
+       "conf" : 1.000000,
+       "end" : 59.820000,
+       "start" : 59.070000,
+       "word" : "international"
+     }, {
+       "conf" : 1.000000,
+       "end" : 60.480000,
+       "start" : 59.820000,
+       "word" : "condemnation"
+     }],
+   "text" : "construction began in two thousand and sixteen and finished five years later at the end of two thousand and twenty one as the german government work towards certifying the pipeline to begin operation russia launched a military invasion of ukraine this unjustified and unconscionable attack on a sovereign nation has received widespread international condemnation"
+ },{
+   "result" : [{
+       "conf" : 0.465263,
+       "end" : 60.690000,
+       "start" : 60.480000,
+       "word" : "then"
+     }, {
+       "conf" : 1.000000,
+       "end" : 61.140000,
+       "start" : 60.750000,
+       "word" : "followed"
+     }, {
+       "conf" : 1.000000,
+       "end" : 61.290000,
+       "start" : 61.140000,
+       "word" : "up"
+     }, {
+       "conf" : 1.000000,
+       "end" : 61.440000,
+       "start" : 61.290000,
+       "word" : "with"
+     }, {
+       "conf" : 1.000000,
+       "end" : 61.500000,
+       "start" : 61.440000,
+       "word" : "a"
+     }, {
+       "conf" : 1.000000,
+       "end" : 61.980000,
+       "start" : 61.500000,
+       "word" : "litany"
+     }, {
+       "conf" : 1.000000,
+       "end" : 62.070000,
+       "start" : 61.980000,
+       "word" : "of"
+     }, {
+       "conf" : 1.000000,
+       "end" : 62.610000,
+       "start" : 62.070000,
+       "word" : "sanctions"
+     }, {
+       "conf" : 1.000000,
+       "end" : 62.790000,
+       "start" : 62.610000,
+       "word" : "on"
+     }, {
+       "conf" : 1.000000,
+       "end" : 63.210000,
+       "start" : 62.790000,
+       "word" : "russia"
+     }, {
+       "conf" : 1.000000,
+       "end" : 63.420000,
+       "start" : 63.270000,
+       "word" : "and"
+     }, {
+       "conf" : 0.663307,
+       "end" : 63.540000,
+       "start" : 63.420000,
+       "word" : "it's"
+     }, {
+       "conf" : 1.000000,
+       "end" : 63.810000,
+       "start" : 63.540000,
+       "word" : "most"
+     }, {
+       "conf" : 1.000000,
+       "end" : 64.110000,
+       "start" : 63.810000,
+       "word" : "senior"
+     }, {
+       "conf" : 1.000000,
+       "end" : 64.620000,
+       "start" : 64.110000,
+       "word" : "leaders"
+     }],
+   "text" : "then followed up with a litany of sanctions on russia and it's most senior leaders"
+ }
+ ]
+ }
+ 

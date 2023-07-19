@@ -1,0 +1,8 @@
+en_UK.json:
+open-dict-data project
+"""
+All material in this repository released under the MIT license unless otherwise specified.
+Please note that third-party datasets retain their original licenses
+-- refer to the Credits section above for details.
+"""
+https://github.com/open-dict-data/ipa-dict#credits

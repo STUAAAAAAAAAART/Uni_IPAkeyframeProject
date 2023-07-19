@@ -1,0 +1,5 @@
+ResultsPlusIPA.json
+This is the file to be parsed by the keyframing script in maya.
+The pronunciation for "winograd" had to be manually sourced from wikipedia, as it does not exist in the open-dict databases
+
+------

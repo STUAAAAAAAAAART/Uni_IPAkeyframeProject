@@ -1,0 +1,184 @@
+{
+	"__reference__": " https://en.wikipedia.org/wiki/International_Phonetic_Alphabet ",
+	"__comment__": "International Phonetic Alphabet JSON map",
+	"map":
+	{
+		"consonant":
+		{
+			"__comment__":"pharyngeal and epiglottal are the same thing for purposes of generating keyframes",
+			"place": ["bilabial", "labiodental", "lingolabial", "dental", "alveolar", "postalveolar", "retroflex", "palatal", "velar", "uvular", "pharyngeal", "glottal"],
+			"manner":["nasal", "plosive", "trill", "tapflap", "sibilantfricative","fricative", "lateralfricative", "approximant", "lateralapproximant"]
+		},		
+		"__vowel__":
+		{
+			"__comment__": "new definitions can be added numerically, unlike consonants with more complex recent additions",
+			"height": ["close","near-close","close-mid","mid","open-mid","near-open","open"],
+			"backness":["front","front-mid","central","back-mid","back"]
+		}
+	},
+	
+	"consonant":
+	{
+		"__commment__": "symbols may be 2 or more chars long, e.g. labiodental plosive (b̪: u/98 + u/810)",
+		"__key__":["place","manner","voice"],
+
+		"p": ["bilabial","plosive","voiceless"],
+		"b": ["bilabial","plosive","voiced"],
+		"p̪": ["labiodental","plosive","voiceless"],
+		"b̪": ["labiodental","plosive","voiced"],
+		"t̼": ["lingolabial","plosive","voiceless"],
+		"d̼": ["lingolabial","plosive","voiced"],
+		"t̪": ["dental","plosive","voiceless"],
+		"d̪": ["dental","plosive","voiced"],
+		"t": ["alveolar","plosive","voiceless"],
+		"d": ["alveolar","plosive","voiced"],
+		"ʈ": ["retroflex","plosive","voiceless"],
+		"ɖ": ["retroflex","plosive","voiced"],
+		"c": ["palatal","plosive","voiceless"],
+		"ɟ": ["palatal","plosive","voiced"],
+		"k": ["velar","plosive","voiceless"],
+		"ɡ": ["velar","plosive","voiced"],
+		"q": ["uvular","plosive","voiceless"],
+		"ɢ": ["uvular","plosive","voiced"],
+		"ʡ": ["pharyngeal","plosive","voiceless"],
+		
+		"ʔ": ["glottal","plosive","voiceless"],
+
+		"m̥": ["bilabial", "nasal", "voiceless"],
+		"m": ["bilabial", "nasal", "voiced"],
+		"ɱ": ["labiodental", "nasal", "voiced"],
+		
+		"n̼": ["lingolabial", "nasal", "voiced"],
+		"n̥": ["alveolar", "nasal", "voiceless"],
+		"n": ["alveolar", "nasal", "voiced"],
+		"ɳ̊": ["retroflex", "nasal", "voiceless"],
+		"ɳ": ["retroflex", "nasal", "voiced"],
+		"ɲ̊": ["palatal", "nasal", "voiceless"],
+		"ɲ": ["palatal", "nasal", "voiced"],
+		"ŋ̊": ["velar","nasal","voiceless"],
+		"ŋ": ["velar","nasal","voiced"],
+		
+		"ɴ": ["uvular","nasal","voiced"],
+
+		"ʙ̥": ["bilabial","trill","voiced"],
+		"ʙ": ["bilabial","trill","voiceless"],
+		"r̥": ["alveolar","trill","voiced"],
+		"r": ["alveolar","trill","voiceless"],
+		"ʀ̥": ["uvular","trill","voiced"],
+		"ʀ": ["uvular","trill","voiceless"],
+		"ʜ": ["pharyngeal","trill","voiced"],
+		"ʢ": ["pharyngeal","trill","voiceless"],
+
+		"ⱱ̟": ["bilabial","tapflap","voiceless"],
+		
+		"ⱱ": ["labiodental","tapflap","voiceless"],
+		
+		"ɾ̼": ["lingolabial","tapflap","voiceless"],
+		"ɾ̥": ["alveolar","tapflap","voiced"],
+		"ɾ": ["alveolar","tapflap","voiceless"],
+		"ɽ̊": ["retroflex","tapflap","voiced"],
+		"ɽ": ["retroflex","tapflap","voiceless"],
+		
+		"ɢ̆": ["uvular","tapflap","voiceless"],
+		
+		"ʡ̆": ["pharyngeal","tapflap","voiceless"],
+
+		"s": ["alveolar","sibilantfricative","voiced"],
+		"z": ["alveolar","sibilantfricative","voiceless"],
+		"ʃ": ["postalveolar","sibilantfricative","voiced"],
+		"ʒ": ["postalveolar","sibilantfricative","voiceless"],
+		"ʂ": ["retroflex","sibilantfricative","voiced"],
+		"ʐ": ["retroflex","sibilantfricative","voiceless"],
+		"ɕ": ["palatal","sibilantfricative","voiced"],
+		"ʑ": ["palatal","sibilantfricative","voiceless"],
+
+		"ɸ": ["bilabial","fricative","voiced"],
+		"β": ["bilabial","fricative","voiceless"],
+		"f": ["labiodental","fricative","voiced"],
+		"v": ["labiodental","fricative","voiceless"],
+		"θ̼": ["lingolabial","fricative","voiced"],
+		"ð̼": ["lingolabial","fricative","voiceless"],
+		"θ": ["dental","fricative","voiced"],
+		"ð": ["dental","fricative","voiceless"],
+		"θ̠": ["alveolar","fricative","voiced"],
+		"ð̠": ["alveolar","fricative","voiceless"],
+		"ɹ̠̊˔": ["postalveolar","fricative","voiced"],
+		"ɹ̠˔": ["postalveolar","fricative","voiceless"],
+		"ɻ̊˔": ["retroflex","fricative","voiced"],
+		"ɻ˔": ["retroflex","fricative","voiceless"],
+		"ç": ["palatal","fricative","voiced"],
+		"ʝ": ["palatal","fricative","voiceless"],
+		"x": ["velar","fricative","voiced"],
+		"ɣ": ["velar","fricative","voiceless"],
+		"χ": ["uvular","fricative","voiced"],
+		"ʁ": ["uvular","fricative","voiceless"],
+		"ħ": ["pharyngeal","fricative","voiced"],
+		"ʕ": ["pharyngeal","fricative","voiceless"],
+		"h": ["glottal","fricative","voiced"],
+		"ɦ": ["glottal","fricative","voiceless"],
+
+		"ɬ": ["alveolar","lateralfricative","voiced"],
+		"ɮ": ["alveolar","lateralfricative","voiceless"],
+
+		"ʋ": ["labiodental","approximant","voiceless"],
+		"ɹ": ["alveolar","approximant","voiceless"],
+		"ɻ": ["retroflex","approximant","voiceless"],
+		"j": ["palatal","approximant","voiceless"],
+		"ɰ": ["velar","approximant","voiceless"],
+		"ʔ̞": ["glottal","approximant","voiceless"],
+
+		"ɫ": ["alveolar","lateralapproximant","voiced"],
+		"l": ["alveolar","lateralapproximant","voiceless"],
+		"ɭ": ["retroflex","lateralapproximant","voiceless"],
+		"ʎ": ["palatal","lateralapproximant","voiceless"],
+		"ʟ": ["velar","lateralapproximant","voiceless"],
+		"ʟ̠": ["uvular","lateralapproximant","voiceless"]
+	},
+	
+	"vowel":
+	{
+		"__key__":["height","backness","roundedness"],
+		"i":[0.0,0.0,0.0],
+		"y":[0.0,0.0,1.0],
+		"ɪ":[0.5,0.25,0.0],
+		"ʏ":[0.5,0.25,1.0],
+		"e":[1.0,0.0,0.0],
+		"ø":[1.0,0.0,1.0],
+		"e̞":[1.5,0.0,0.0],
+		"ø̞":[1.5,0.0,1.0],
+		"ɛ":[2.0,0.0,0.0],
+		"œ":[2.0,0.0,1.0],
+		"æ":[2.5,0.0,0.0],
+		
+		"a":[3.0,0.0,0.0],
+		"ɶ":[3.0,0.0,1.0],
+
+		"ɨ":[0.0,0.5,0.0],
+		"ʉ":[0.0,0.5,1.0],
+		"ɘ":[1.0,0.5,0.0],
+		"ɵ":[1.0,0.5,1.0],
+		
+		"ə":[1.5,0.5,1.0],
+		"ɜ":[2.0,0.5,0.0],
+		"ɞ":[2.0,0.5,1.0],
+		
+		"ɐ":[2.5,0.5,1.0],
+		"ä":[3.0,0.5,0.0],
+		
+
+		"ɯ":[0.0,1.0,0.0],
+		"w":[0.0,1.0,0.5],
+		"u":[0.0,1.0,1.0],
+		"ʊ":[0.5,0.75,0.0],
+		
+		"ɤ":[1.0,1.0,0.0],
+		"o":[1.0,1.0,1.0],
+		"ɤ̞":[1.5,1.0,0.0],
+		"o̞":[1.5,1.0,1.0],
+		"ʌ":[2.0,1.0,0.0],
+		"ɔ":[2.0,1.0,1.0],
+		"ɑ":[3.0,1.0,0.0],
+		"ɒ":[3.0,1.0,1.0]
+	}
+	
+}
